@@ -1,3 +1,5 @@
+******** WORDLE CLONE ***********
+
 Project is created in Pythom.
 Only backend is implemented.
 
